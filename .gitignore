@@ -16,5 +16,6 @@ roles/local/**/
 roles/public/**/
 !roles/public/.gitkeep
 
-collections/ansible_collections/**/
+
+collections/**/
 !collections/ansible_collections/.gitkeep
